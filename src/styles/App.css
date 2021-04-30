@@ -1,9 +1,14 @@
 h1 {
     color: #27aedb;
-    text-align: center;
+    /* text-align: center; */
     }
     
-
+#main{
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    width: 200px;
+    align-content: center;
+}
 button{
     color: #27aedb;
     text-align: center;
